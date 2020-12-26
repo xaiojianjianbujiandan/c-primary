@@ -1,0 +1,2 @@
+E:\vs_project_study\c\staffs_imformation\Debug\staffs_imformation.exe
+E:\vs_project_study\c\staffs_imformation\Debug\staffs_imformation.pdb
